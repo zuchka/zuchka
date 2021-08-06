@@ -2,7 +2,7 @@
 
 ## 👋 Hi. I'm Matt. 
 
-## 💾 I'm a Community Support Engineer @grafanalabs
+## 💾 I'm a Community Support Engineer @grafana
 
 ## 📫 Say hi back: 
 
