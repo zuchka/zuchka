@@ -2,7 +2,9 @@
 
 ## 👋 Hi. I'm Matt. 
 
-## 💾 I'm a Community Support Engineer @grafana
+## 💾 Community Support Engineer @grafana
+
+## 🌴 Based in rural Hawai'i
 
 ## 📫 Say hi back: 
 
