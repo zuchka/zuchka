@@ -1,11 +1,11 @@
 # about me
 
-## 👋 Hi. I'm Matt. 
+## 👋 hi. i'm matt. 
 
-## 💾 Community Support Engineer @grafana
+## 💾 community support engineer @grafana
 
-## 🌴 Based in rural Hawai'i
+## 🌴 based in rural Hawai'i
 
-## 📫 Say hi back: 
+## 📫 say hi back: 
 
 ### matt [dot] abrams [at] grafana [dot] com
