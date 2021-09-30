@@ -4,8 +4,8 @@
 
 ## 💾 community support engineer @grafana
 
-## 🌴 based in rural Hawai'i
+## 🌴🌋 based in rural Hawai'i 🌋🌴 
 
-## 📫 say hi back: 
+## 📫 say hi back! 
 
 ### matt [dot] abrams [at] grafana [dot] com
