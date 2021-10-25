@@ -8,4 +8,4 @@
 
 ## 📫 say hi back! 
 
-### matt [dot] abrams [at] grafana [dot] com
+### matt [dot] j [dot] abrams [at] gmail [dot] com
