@@ -4,4 +4,4 @@
 
 ## 💾 community support engineer @grafana
 
-## 🌴🌋 based in rural Hawai'i 🌋🌴 
+## 🌋 based in rural Hawai'i 
