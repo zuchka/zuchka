@@ -2,4 +2,4 @@
 
 ## 👋 hi. i'm matt. 
 
-## 💾 community support engineer @grafana
+## 💾 Developer Advocate @grafana
