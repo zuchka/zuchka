@@ -2,4 +2,4 @@
 
 ## 👋 hi. i'm matt. 
 
-## 💾 Developer Advocate @grafana
+## 💾 developer advocate @grafana
